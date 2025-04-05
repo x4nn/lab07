@@ -1,0 +1,73 @@
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\appsettings.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.exe
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.deps.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.runtimeconfig.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.pdb
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\ClassLib.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\ClassLib.pdb
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.csproj.AssemblyReference.cache
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.AssemblyInfoInputs.cache
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.AssemblyInfo.cs
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.csproj.CoreCompileInputs.cache
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.MinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MinimalAPI.props
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPI.props
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MinimalAPI.props
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\scopedcss\bundle\MinimalAPI.styles.css
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.csproj.Up2Date
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\refint\MinimalAPI.dll
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.pdb
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.genruntimeconfig.cache
+C:\Code\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\ref\MinimalAPI.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.staticwebassets.endpoints.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.exe
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.deps.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.runtimeconfig.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\MinimalAPI.pdb
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\ClassLib.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\bin\Debug\net8.0\ClassLib.pdb
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.csproj.AssemblyReference.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.AssemblyInfoInputs.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.AssemblyInfo.cs
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\scopedcss\bundle\MinimalAPI.styles.css
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.MinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.MinimalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MinimalAPI.props
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPI.props
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MinimalAPI.props
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.csproj.Up2Date
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\refint\MinimalAPI.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.pdb
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\MinimalAPI.genruntimeconfig.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\MinimalAPI\obj\Debug\net8.0\ref\MinimalAPI.dll

@@ -1,0 +1,22 @@
+C:\Code\examples-aspnet-minimalapi\ClassLib\bin\Debug\net8.0\ClassLib.deps.json
+C:\Code\examples-aspnet-minimalapi\ClassLib\bin\Debug\net8.0\ClassLib.dll
+C:\Code\examples-aspnet-minimalapi\ClassLib\bin\Debug\net8.0\ClassLib.pdb
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfoInputs.cache
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfo.cs
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.dll
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\refint\ClassLib.dll
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.pdb
+C:\Code\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ref\ClassLib.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\bin\Debug\net8.0\ClassLib.deps.json
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\bin\Debug\net8.0\ClassLib.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\bin\Debug\net8.0\ClassLib.pdb
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfo.cs
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\refint\ClassLib.dll
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ClassLib.pdb
+C:\Users\detruyer\Documents\sem4\SAD\exercise files\07\lab007\examples-aspnet-minimalapi\ClassLib\obj\Debug\net8.0\ref\ClassLib.dll

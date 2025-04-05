@@ -1,0 +1,50 @@
+@MinimalAPI_HostAddress = https://localhost:7127
+
+GET {{MinimalAPI_HostAddress}}/
+Accept: application/json
+
+###
+
+GET {{MinimalAPI_HostAddress}}/api/students
+Accept: application/json
+
+###
+
+GET {{MinimalAPI_HostAddress}}/api/students/2
+Accept: application/json
+
+###
+
+
+GET {{MinimalAPI_HostAddress}}/api/students/random?size=2
+Accept: application/json
+
+###
+POST {{MinimalAPI_HostAddress}}/api/students
+Content-Type: application/json
+Accept-Language: be-nl,nl;q=0.5
+
+{
+  "id": 4,
+  "name": "Ria",
+  "succeeded": false
+}
+
+###
+
+PUT {{MinimalAPI_HostAddress}}/api/students/2
+Content-Type: application/json
+Accept-Language: be-nl,nl;q=0.5
+
+{
+  "id": 2,
+  "name": "Ria",
+  "succeeded": false
+}
+
+###
+
+DELETE {{MinimalAPI_HostAddress}}/api/students/4
+Accept: application/json
+
+###
