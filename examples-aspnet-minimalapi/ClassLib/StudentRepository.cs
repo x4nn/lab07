@@ -18,6 +18,7 @@ namespace ClassLib
 
         public IEnumerable<Student> GetAllStudents()
         {
+            System.Console.WriteLine("Called GetAllStudents() method");
             return _students;
         }
 
