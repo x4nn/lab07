@@ -18,7 +18,7 @@ namespace ClassLib
 
         public IEnumerable<Student> GetAllStudents()
         {
-            System.Console.WriteLine("GetAllStudents called");
+            System.Console.WriteLine("GetAllStudents called yayy!");
             return _students;
         }
 
